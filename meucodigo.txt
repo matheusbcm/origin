@@ -1,3 +1,8 @@
 Ola meu nome e matheus
 sou uma nova linha
+<<<<<<< HEAD
 Nova linha na nova bbranch
+=======
+Nova linha na nova bbranch
+linha ddo merge
+>>>>>>> master
